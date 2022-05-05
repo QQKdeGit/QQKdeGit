@@ -1,9 +1,4 @@
-
-<p align="center"><img width="80%" src="./assets/readme-header-transparent.png" /></p>
-
-
-### Hi there 👋
-
+<p align="center"><a href="https://github.com/QQKdeGit"><img width="80%" src="./assets/readme-header-transparent.png" /></a></p>
 
 - 🏫 I’m a junior at Beijing University of Posts and Telecommunications (BUPT for short).
 - 📖 I’m currently learning everything (yes you heard right).
