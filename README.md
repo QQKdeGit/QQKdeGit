@@ -11,8 +11,8 @@
 <!-- &bg_color=30,20002c,7303c0,ec38bc -->
 <!-- &bg_color=30,83a4d4,b6fbff -->
 
-<a href="https://github.com/QQKdeGit/QQKdeGit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=QQKdeGit&count_private=true&include_all_commits=true&bg_color=60,f8d845,f04077,dc49a0&title_color=ffffff&text_color=ffffff&show_icons=true&icon_color=ffffff" />
+<a href="https://github.com/QQKdeGit/QQKdeGit">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=QQKdeGit&count_private=true&include_all_commits=true&show_icons=true&icon_color=ffffff&bg_color=60,f8d845,f04077,dc49a0&title_color=ffffff&text_color=ffffff" />
   
   <br/>
   
