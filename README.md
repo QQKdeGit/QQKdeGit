@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**QQKdeGit/QQKdeGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🏫 I’m a junior at Beijing University of Posts and Telecommunications (BUPT for short).
+- 📖 I’m currently learning everything (yes you heard right).
+- 🤯 I'm busy realizing the idea in my head.
+- 🥳 Any issues and stars are appreciated.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- &bg_color=30,f8d845,f04077,bf55db,8faadc -->
+<!-- &bg_color=30,20002c,7303c0,ec38bc -->
+<!-- &bg_color=30,83a4d4,b6fbff -->
+
+<a href="https://github.com/QQKdeGit/QQKdeGit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=QQKdeGit&count_private=true&include_all_commits=true&bg_color=60,f8d845,f04077,dc49a0&title_color=ffffff&text_color=ffffff&show_icons=true&icon_color=ffffff" />
+  
+  <br/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QQKdeGit&layout=compact&card_width=445&bg_color=60,f04078,bf55db&title_color=ffffff&text_color=ffffff" />
+  
+  <br/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=QQKdeWakatime&bg_color=75,dc49a1,bb5cdb,8faadc&title_color=ffffff&text_color=ffffff" />
+  
+  <br/>
+</a>
