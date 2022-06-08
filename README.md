@@ -5,9 +5,13 @@
 - 🤯 I'm busy realizing the idea in my head.
 - 🥳 Any issues and stars are appreciated.
 
-<!-- &bg_color=30,f8d845,f04077,bf55db,8faadc -->
-<!-- &bg_color=30,20002c,7303c0,ec38bc -->
-<!-- &bg_color=30,83a4d4,b6fbff -->
+<!-- &bg_color=30,f8d845,f04077,bf55db,8faadc
+&bg_color=30,20002c,7303c0,ec38bc
+&bg_color=30,83a4d4,b6fbff -->
+
+<!-- &bg_color=45,f8d845,f04077,bf55da
+&bg_color=30,f2696a,f04077,cb50c2,c055d9
+&bg_color=55,f15670,c055d9,a3caf4 -->
 
 <a href="https://github.com/QQKdeGit/QQKdeGit">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=QQKdeGit&count_private=true&include_all_commits=true&show_icons=true&icon_color=ffffff&bg_color=45,f8d845,f04077,bf55da&title_color=ffffff&text_color=ffffff&hide_border=true" />
