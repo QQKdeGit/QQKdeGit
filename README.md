@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/QQKdeGit"><img width="50%" src="./assets/readme-header-transparent.png" /></a></p>
 
 - 🏫 I'm a junior at Beijing University of Posts and Telecommunications (BUPT for short).
-- 📖 I'm currently learning everything (yes you heard right).
+- 📖 I'm currently learning everything (yes you heard that right).
 - 🤯 I'm busy realizing the idea in my head.
 - 🥳 Any issues and stars are appreciated.
 
