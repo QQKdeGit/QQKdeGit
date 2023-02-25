@@ -18,7 +18,7 @@
 
   <br/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QQKdeGit&layout=compact&card_width=445&bg_color=30,f2696a,f04077,cb50c2,c055d9&title_color=ffffff&text_color=ffffff&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QQKdeGit&layout=compact&card_width=495&bg_color=30,f2696a,f04077,cb50c2,c055d9&title_color=ffffff&text_color=ffffff&hide_border=true" />
 
   <br/>
 
