@@ -1,9 +1,11 @@
 <p align="center"><a href="https://github.com/QQKdeGit"><img width="50%" src="./assets/readme-header-transparent.png" /></a></p>
 
-- 🏫 I'm a junior at Beijing University of Posts and Telecommunications (BUPT for short).
-- 📖 I'm currently learning everything (yes you heard that right).
-- 🤯 I'm busy realizing the idea in my head.
-- 🥳 Any issues and stars are appreciated.
+- 🎓 A senior who is about to graduate from Beijing University of Posts and Telecommunications.
+- 🖥️ A Bilibili UP who still needs 958 more fans to reach 1000.
+- 🧑 A person who wants to be a programmer with a craftsman spirit.
+- 🎱 A pool player who is at poor level.
+- 🥳 A humorous person who enjoys playing tricks.
+- 🤯 A person who is constantly implementing his ideas.
 
 <!-- &bg_color=30,f8d845,f04077,bf55db,8faadc
 &bg_color=30,20002c,7303c0,ec38bc
