@@ -28,5 +28,3 @@
 
   <br/>
 </a>
-
-Please YOLO!!!
