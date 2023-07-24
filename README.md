@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/QQKdeGit"><img width="50%" src="./assets/readme-header-transparent.png" /></a></p>
 
-- 🎓 A senior who is about to graduate from Beijing University of Posts and Telecommunications.
-- 🖥️ A Bilibili UP who still needs 958 more fans to reach 1000.
+- 🎓 An employee of Sangfor who graduated from Beijing University of Posts and Telecommunications.
+- 🖥️ A Bilibili UP who still needs 956 more fans to reach 1000.
 - 🧑 A person who wants to be a programmer with a craftsman spirit.
 - 🎱 A pool player who is at poor level.
 - 🥳 A humorous person who enjoys playing tricks.
